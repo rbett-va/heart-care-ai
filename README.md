@@ -259,15 +259,6 @@ Track your cardiovascular health over time:
 
 ## 🌐 Deployment
 
-### Deploy with Lovable
-
-1. Open your project in [Lovable](https://lovable.dev)
-2. Click **Publish** (top right on desktop, bottom-right on mobile)
-3. Follow the deployment wizard
-4. Your app is live!
-
-### Manual Deployment
-
 HeartCareAI can be deployed to any static hosting service:
 
 #### Vercel
@@ -474,6 +465,4 @@ The risk assessments and recommendations provided are based on statistical model
 
 ---
 
-**Built with ❤️ using Lovable**
-
-For more information, visit [lovable.dev](https://lovable.dev)
+**Built with  love ❤️

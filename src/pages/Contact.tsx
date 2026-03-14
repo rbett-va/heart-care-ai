@@ -122,10 +122,10 @@ const Contact = () => {
                     <div>
                       <p className="font-medium mb-1">Email</p>
                       <a 
-                        href="mailto:mirimbachristine@gmail.com" 
+                        href="mailto:bett.devop@gmail.com" 
                         className="text-sm text-primary hover:underline"
                       >
-                        mirimbachristine@gmail.com
+                        bett.devop@gmail.com
                       </a>
                     </div>
                   </div>
@@ -134,10 +134,10 @@ const Contact = () => {
                     <div>
                       <p className="font-medium mb-1">Phone</p>
                       <a 
-                        href="tel:+254701609261" 
+                        href="tel:+15733037764" 
                         className="text-sm text-primary hover:underline"
                       >
-                        +254701609261
+                        +1 (573) 303-7764
                       </a>
                     </div>
                   </div>
@@ -146,13 +146,12 @@ const Contact = () => {
                     <div>
                       <p className="font-medium mb-1">Address</p>
                       <a 
-                        href="https://www.google.com/maps/search/?api=1&query=Rupa's+Mall+Eldoret+Nakuru+Road+Eldoret" 
+                        href="https://www.google.com/maps/search/?api=1&query=Colorado+Springs+CO+USA" 
                         target="_blank" 
                         rel="noopener noreferrer"
                         className="text-sm text-primary hover:underline"
                       >
-                        Rupa's Mall, Eldoret - Nakuru Rd<br />
-                        Eldoret
+                        Colorado Springs, CO, USA
                       </a>
                     </div>
                   </div>
